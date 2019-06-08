@@ -19,16 +19,16 @@
 
 ## 目录 Content
 
-* [英国 United Kingdom](#英国-The-United-Kingdom)
-* [瑞士 Switzerland](#瑞士-Switzerland)
-* [中国香港 Hong Kong](#中国香港-Hong-Kong)
-* [日本 Japan](#日本-Japan)
-* [加拿大 Canada](#加拿大-Canada)
-* [荷兰 Netherlands](#荷兰-the-Netherlands)
-* [法国 France](#法国-France)
-* [德国 Germany](#德国-Germany)
-* [意大利/西班牙 Italy/Spain](#意大利/西班牙-Italy/Spain)
-* [比利时 Belgium](#比利时-Belgium)
+* [英国 United Kingdom](The-United-Kingdom)
+* [瑞士 Switzerland](Switzerland.md)
+* [中国香港 Hong Kong](HongKong.md)
+* [日本 Japan](Japan.md)
+* [加拿大 Canada](Canada.md)
+* [荷兰 Netherlands](Netherlands.md)
+* [法国 France](France.md)
+* [德国 Germany](Germany.md)
+* [意大利/西班牙 Italy/Spain](others.md)
+* [比利时 Belgium](others.md)
 * [Ranking - Global](Global_Ranking.md)
 * [Ranking - Physics](Physics_Ranking.md)
 
