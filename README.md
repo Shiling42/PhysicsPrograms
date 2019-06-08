@@ -27,8 +27,8 @@
 * [荷兰 Netherlands](Netherlands.md)
 * [法国 France](France.md)
 * [德国 Germany](Germany.md)
-* [意大利/西班牙 Italy/Spain](others.md)
-* [比利时 Belgium](others.md)
+* [意大利/西班牙 Italy/Spain](Others.md)
+* [比利时 Belgium](Others.md)
 * [Ranking - Global](Global_Ranking.md)
 * [Ranking - Physics](Physics_Ranking.md)
 
