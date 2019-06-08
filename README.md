@@ -19,20 +19,20 @@
 
 ## 目录 Content
 
-* [英国 United Kingdom](#英国-The-United-Kingdom)
+* [英国 United Kingdom](##英国-The-United-Kingdom)
 * [瑞士 Switzerland](##瑞士-Switzerland)
-* [中国香港 Hong Kong](https://github.com/Shiling42/PhysicsPrograms#%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF-hong-kong)
-* [日本 Japan](https://github.com/Shiling42/PhysicsPrograms#%E6%97%A5%E6%9C%AC-japan)
-* [加拿大 Canada](https://github.com/Shiling42/PhysicsPrograms#%E5%8A%A0%E6%8B%BF%E5%A4%A7-canada)
-* [荷兰 Netherlands](https://github.com/Shiling42/PhysicsPrograms#%E8%8D%B7%E5%85%B0-the-netherlands)
-* [法国 France](https://github.com/Shiling42/PhysicsPrograms#%E6%B3%95%E5%9B%BD-france)
-* [德国 Germany](https://github.com/Shiling42/PhysicsPrograms#%E5%BE%B7%E5%9B%BD-germany)
-* [意大利/西班牙 Italy/Spain](https://github.com/Shiling42/PhysicsPrograms#%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A5%BF%E7%8F%AD%E7%89%99-italyspain)
-* [比利时 Belgium](https://github.com/Shiling42/PhysicsPrograms#%E6%AF%94%E5%88%A9%E6%97%B6-belgium)
+* [中国香港 Hong Kong](##-中国香港-Hong-Kong)
+* [日本 Japan](##日本-Japan)
+* [加拿大 Canada](##加拿大-Canada)
+* [荷兰 Netherlands](##荷兰-Netherlands)
+* [法国 France](##法国-France)
+* [德国 Germany](##德国-Germany)
+* [意大利/西班牙 Italy/Spain](##意大利/西班牙-Italy/Spain)
+* [比利时 Belgium](##比利时-Belgium)
 * [Ranking - Global](Global_Ranking.md)
 * [Ranking - Physics](Physics_Ranking.md)
 
-# 英国 The United Kingdom
+## 英国 The United Kingdom
 
 英国学校非常多，但是考虑到其几乎不给非欧盟学生奖学金，这里只推荐两所CS相关项目，毕竟CS回本快。不关心费用的问题可以了解一下帝国理工和剑桥的物理硕士项目。英国的硕士学制都是一年，而考虑到下一步PhD申请，一年制的硕士会导致刚入学就要准备下一轮申请，对PhD申请非常不利。除了选择留在英国继续读自费PhD或直接工作的，英国硕士项目很容易导致硕士之后Gap一年。
 
