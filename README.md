@@ -1,5 +1,4 @@
-# 海外物理学项目申请经验 2018
-# Overseas Graduate Programs in Physics 
+# 海外物理学项目申请经验 2018//Overseas Graduate Programs in Physics 
  
 ## 作者 Authors
 梁师翎，张昌凯
