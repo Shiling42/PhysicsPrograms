@@ -19,9 +19,9 @@
 
 ## 目录 Content
 
-* [英国 United Kingdom](The-United-Kingdom)
+* [英国 United Kingdom](United_Kingdom)
 * [瑞士 Switzerland](Switzerland.md)
-* [中国香港 Hong Kong](HongKong.md)
+* [中国香港 Hong Kong](Hong_Kong.md)
 * [日本 Japan](Japan.md)
 * [加拿大 Canada](Canada.md)
 * [荷兰 Netherlands](Netherlands.md)
